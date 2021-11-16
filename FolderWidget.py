@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-
-__author__ = 'Wenfeng Zhang'
+###################################################################
+# Author: Wenfeng Zhang
+# Email : zwf.vfx@Foxmail.com
+###################################################################
 
 try:
     from PySide2.QtCore import *

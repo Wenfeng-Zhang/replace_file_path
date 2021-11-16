@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Wenfeng Zhang'
+###################################################################
+# Author: Wenfeng Zhang
+# Email : zwf.vfx@Foxmail.com
+###################################################################
 
 import time
 try:
